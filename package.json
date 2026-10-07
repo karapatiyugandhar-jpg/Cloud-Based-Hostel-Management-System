@@ -1,0 +1,8 @@
+{
+  "name":"cloud-based-hostel-management-system",
+  "version":"1.0.0",
+  "description":"Cloud-Based Hostel Management System",
+  "main":"server.js",
+  "scripts":{"start":"node server.js"},
+  "dependencies":{"express":"^4.21.2"}
+}
